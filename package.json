@@ -8,5 +8,30 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "sideEffects": false
+  "keywords": [
+    "angular otp input",
+    "angular4 otp input",
+    "angular5 otp input",
+    "angular6 otp input",
+    "angular7 otp input",
+    "angular8 otp input",
+    "angular9 otp input",
+    "angular10 otp input",
+    "angular11 otp input",
+    "angular12 otp input",
+    "otp input angular",
+    "wts input otp",
+    "angular otp password box",
+    "angular otp verification"
+  ],
+  "license": "MIT",
+  "author": "Suman Mandal",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suman201/wts-otp"
+  },
+  "bugs": {
+    "url": "https://github.com/Suman201/wts-otp/issues"
+  }
 }
