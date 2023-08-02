@@ -1,0 +1,5 @@
+<div #OTPMaster class="___wts___OTP" [class.___invalid]="OTP.length && OTP.length < digits">
+  <ng-container *ngFor="let item of inputs">
+    <input [type]="type" onkeypress="return event.charCode >= 48 && event.charCode <= 57" [placeholder]="placholder">
+  </ng-container>
+</div>
