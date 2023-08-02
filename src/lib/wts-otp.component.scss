@@ -1,5 +1,4 @@
-.___wts___OTP {
-
+:host{
   --inputBorderColor: #000;
   --inputErrorBorderColor: rgb(255, 3, 3);
   --inputErrorBackgroundColor: transparent;
@@ -12,6 +11,11 @@
   --inputGap: 5px;
   --inputParentGapAdjustment: -5px;
   --inputAlignment: center;
+}
+
+.___wts___OTP {
+
+
 
   display: flex;
   flex-wrap: nowrap;

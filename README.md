@@ -38,6 +38,8 @@ getOTP(e: string){
 }
 ```
 
+
+
 Selector: `wts-otp`
 
 **Properties**
@@ -49,7 +51,11 @@ Selector: `wts-otp`
 | @Input() type: <Input type>string        | Default text                  |
 | @Output() getOTP: EventEmitter\<string\> | Emits time when that was set. |
 
+
+
+
 **CSS Customization**
+
 on style.scss
 
 ```css
@@ -68,3 +74,8 @@ on style.scss
   --inputAlignment: center;
 }
 ```
+
+## Example
+
+<a href="https://stackblitz.com/edit/stackblitz-starters-fqouhy" target="_blank">Edit on Stackbliz</a>
+
